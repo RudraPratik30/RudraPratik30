@@ -9,8 +9,14 @@
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RudraPratik30.RudraPratik30)
 
 
-## I am [Pratik Agrawal](https://github.com/RudraPratik30)! <img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
-### I love being called as Rudra 🔱
+## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)! <img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
+### I am a Student & a Developer
+
+#### I would love to connect with you all
+<span>
+  <a href=""><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>
+
+
 <!--
 **RudraPratik30/RudraPratik30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
