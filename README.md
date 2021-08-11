@@ -21,9 +21,10 @@
 - ⚡ Fun fact: ...
 
 
-### Languages I currently work with
-<center>
-</center>
+<h2>Languages I currently work with</h2><br>
+<p align="center">
+  <img src="./langs.png" height="300">
+</p>
 <br>
 
 
