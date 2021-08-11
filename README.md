@@ -10,9 +10,24 @@
 
 
 ## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)! <img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
-### 👨🏻‍🎓  I am a Student & a Developer 
+- 👨🏻‍🎓 I am a Student & a Developer 
+- 🌱 Currently learning Java & Web Development.
+- 🔭 I want to work in the field of Indian Defense Technology. 🛡️
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about anything (my answer would be same "idk 🙃")
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-#### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all 
+
+### Languages I currently work with
+<center>
+</center>
+<br>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all <br>
 <span>
   <a href="https://www.linkedin.com/in/pratik-agrawal-0049051b7"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>
   <a href="https://www.instagram.com/pratik102agrawal/"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>
@@ -20,20 +35,8 @@
   <a href="mailto:pratik102agrawal@gmail.com"><img src="https://image.flaticon.com/icons/png/128/888/888853.png" height="40" width="40"></a>
   <a href="https://www.hackerrank.com/pratik104agrawal"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45" width="45"></a>
 
+<br><br>
 
-<!--
-**RudraPratik30/RudraPratik30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on .....even idk 🥴
-- 🌱 I’m currently learning ......trying hard to learn somrthing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything (my answer would be same "idk 🙃")
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraPratik30&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
