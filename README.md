@@ -10,14 +10,14 @@
 
 
 ## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)! <img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
-### I am a Student & a Developer
+### I am a Student & a Developer <img src="https://cdn.dribbble.com/users/6569/screenshots/15051410/media/4fc0d807ed5a350887a47b1af60f5bf7.png?compress=1&resize=400x300" width="30" height="30">
 
 #### I would love to connect with you all 
 <span>
   <a href="https://www.linkedin.com/in/pratik-agrawal-0049051b7"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>
   <a href="https://www.instagram.com/pratik102agrawal/"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>
-  <!-- <a href="#"><img src="#" height="40" width="40"></a>
-  //<a href="#"><img src="#" height="40" width="40"></a>-->
+  <a href="https://github.com/RudraPratik30"><img src="https://image.flaticon.com/icons/png/512/270/270798.png" height="40" width="40"></a>
+  <!--//<a href="#"><img src="#" height="40" width="40"></a>-->
 
 
 <!--
