@@ -12,11 +12,12 @@
 ## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)! <img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
 <div>
   <img align="right" src="https://thumbs.gfycat.com/CriminalSilverAmethystgemclam-max-1mb.gif" width="35%" height="150"/>
-- 👨🏻‍🎓 I am a Student & a Developer <br>
-- 🌱 Currently learning Java & Web Development.<br>
-- 🔭 I want to work in the field of Indian Defense Technology. 🛡️<br>
-- 🌐 I'm looking to collaborate and become more participatory in the community.<br>
-- 👨🏻‍💻 I want to learn n enhance my skills in competitive programming.<br>
+- <img src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="20" height="20"> I am a Student & a Developer <br>
+- <img src="https://c.tenor.com/zZwhISRsAnQAAAAM/code.gif" width="20" height="20"> Currently learning Java & Web Development.<br>
+- <img src="https://c.tenor.com/19EdfWZx17MAAAAi/kris-deltarune.gif" width="20" height="20"> I want to work in the field of Indian Defense Technology. 🛡️<br>
+- <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" width="20" height="20"> I'm looking to collaborate and become more participatory in the community.<br>
+- <img src="https://c.tenor.com/D16b6zcA3CMAAAAj/books-study.gif" width="20" height="20"> I want to learn n enhance my skills in competitive programming.<br>
+- <img src="https://c.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif" width="20" height="20"> I am also intrested in Ethical Hacking.
 </div>
 <h2>Languages I currently work with</h2><br>
 <p align="center">
