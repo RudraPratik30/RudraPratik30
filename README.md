@@ -13,13 +13,8 @@
 - 👨🏻‍🎓 I am a Student & a Developer 
 - 🌱 Currently learning Java & Web Development.
 - 🔭 I want to work in the field of Indian Defense Technology. 🛡️
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything (my answer would be same "idk 🙃")
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🌐 I'm looking to collaborate and become more participatory in the community.
+- 👨🏻‍💻 I want to learn n enhance my skills in competitive programming.
 
 <h2>Languages I currently work with</h2><br>
 <p align="center">
@@ -29,16 +24,18 @@
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all <br>
-<span>
-  <a href="https://www.linkedin.com/in/pratik-agrawal-0049051b7"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>
-  <a href="https://www.instagram.com/pratik102agrawal/"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>
-  <a href="https://github.com/RudraPratik30"><img src="https://image.flaticon.com/icons/png/512/270/270798.png" height="40" width="40"></a>
-  <a href="mailto:pratik102agrawal@gmail.com"><img src="https://image.flaticon.com/icons/png/128/888/888853.png" height="40" width="40"></a>
-  <a href="https://www.hackerrank.com/pratik104agrawal"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45" width="45"></a>
+<p align="center"><span>
+  <a href="https://www.linkedin.com/in/pratik-agrawal-0049051b7"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>&nbsp&nbsp
+  <a href="https://www.instagram.com/pratik102agrawal/"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>&nbsp&nbsp
+  <a href="https://github.com/RudraPratik30"><img src="https://image.flaticon.com/icons/png/512/270/270798.png" height="40" width="40"></a>&nbsp&nbsp
+  <a href="mailto:pratik102agrawal@gmail.com"><img src="https://image.flaticon.com/icons/png/128/888/888853.png" height="40" width="40"></a>&nbsp&nbsp
+  <a href="https://www.hackerrank.com/pratik104agrawal"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45" width="45"></a></span></p>
 
 <br><br>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraPratik30&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RudraPratik30&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=RudraPratik30&theme=rogue&hide_border=true&area=true)
+
