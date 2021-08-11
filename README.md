@@ -10,12 +10,14 @@
 
 
 ## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)! <img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
-- 👨🏻‍🎓 I am a Student & a Developer 
-- 🌱 Currently learning Java & Web Development.
-- 🔭 I want to work in the field of Indian Defense Technology. 🛡️
-- 🌐 I'm looking to collaborate and become more participatory in the community.
-- 👨🏻‍💻 I want to learn n enhance my skills in competitive programming.
-
+<div>
+  <img align="right" src="https://thumbs.gfycat.com/CriminalSilverAmethystgemclam-max-1mb.gif" width="35%" height="150"/>
+- 👨🏻‍🎓 I am a Student & a Developer <br>
+- 🌱 Currently learning Java & Web Development.<br>
+- 🔭 I want to work in the field of Indian Defense Technology. 🛡️<br>
+- 🌐 I'm looking to collaborate and become more participatory in the community.<br>
+- 👨🏻‍💻 I want to learn n enhance my skills in competitive programming.<br>
+</div>
 <h2>Languages I currently work with</h2><br>
 <p align="center">
   <img src="./langs.png" height="300">
