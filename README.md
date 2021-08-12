@@ -17,7 +17,7 @@
 - <img src="https://c.tenor.com/19EdfWZx17MAAAAi/kris-deltarune.gif" width="20" height="20"> I want to work in the field of Indian Defense Technology. 🛡️<br>
 - <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" width="20" height="20"> I'm looking to collaborate and become more participatory in the community.<br>
 - <img src="https://c.tenor.com/D16b6zcA3CMAAAAj/books-study.gif" width="20" height="20"> I want to learn n enhance my skills in competitive programming.<br>
-- <img src="https://c.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif" width="20" height="20"> I am also intrested in Ethical Hacking.
+- <img src="https://c.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif" width="20" height="20"> I am also interested in Ethical Hacking.
 </div>
 <h2>Languages I currently work with</h2><br>
 <p align="center">
