@@ -3,11 +3,11 @@
 #### I have been waiting for you since long 👨🏻💻
 #### Get into the aircraft and let's go through my world. Don't forget to tighten your seat belt 😉-->
 <img src="imgs\start.gif" align="center" width="100%" height=300px>
-<br>
-<img src="https://alemdosgreys.files.wordpress.com/2016/12/ufo-flying-saucer-animated-gif-9.gif" align="center" width="100%" height=300px>
-<br><br>
-<div align="right">
 
+<img src="https://alemdosgreys.files.wordpress.com/2016/12/ufo-flying-saucer-animated-gif-9.gif" align="center" width="100%" height=300px>
+<br>
+<div align="right">
+  
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RudraPratik30.RudraPratik30)
 </div>
 <hr>
@@ -22,7 +22,7 @@
 - <img src="https://c.tenor.com/D16b6zcA3CMAAAAj/books-study.gif" width="20" height="20"> I want to learn n enhance my skills in competitive programming.<br>
 - <img src="https://c.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif" width="20" height="20"> I am also interested in Ethical Hacking.
 </div>
-<hr>
+<!-- hr -->
 <h2>Languages I currently work with</h2><br>
 <p align="center"><span>
 <img src="https://img.icons8.com/color/2x/c-programming.png" alt="C Programming" height="50" width="50">&nbsp&nbsp
@@ -34,7 +34,7 @@
 <img src="https://img.icons8.com/ios-filled/2x/markdown.png" alt="Markdown" height="50" width="50">&nbsp&nbsp
 </span></p>
 
-<hr>
+<!-- hr -->
 
 <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all </h2><br>
 <p align="center"><span>
@@ -58,8 +58,9 @@
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=RudraPratik30&theme=rogue&hide_border=true&area=true)
 </div>
 <hr>
-<center>
+
 <img src="imgs\thanks.gif" width="100%"><br>
-<p>© 2021 Pratik Agrawal</p>
+<center>
+  <p>© 2021 Pratik Agrawal</p>
 </center>
 <hr>
