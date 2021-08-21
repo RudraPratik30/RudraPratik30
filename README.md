@@ -55,6 +55,6 @@
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=RudraPratik30&theme=rogue&hide_border=true&area=true)
 
 <hr>
-<center>
-<img src="https://imgur.com/aRI4jAd">
-</center>
+<!--- <center>
+<video src="https://imgur.com/aRI4jAd">
+</center> --->
