@@ -56,5 +56,5 @@
 
 <hr>
 <center>
-<img src="imgs\ty.mp4">
+<img src="https://imgur.com/aRI4jAd">
 </center>
