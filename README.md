@@ -38,7 +38,7 @@
 
 <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all </h2><br>
 <p align="center"><span>
-  <a href="www.linkedin.com/in/rudrapratik"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>&nbsp&nbsp
+  <a href="https://www.linkedin.com/in/rudrapratik/"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>&nbsp&nbsp
   <a href="https://www.instagram.com/rudrapratik30/"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>&nbsp&nbsp
   <a href="https://github.com/RudraPratik30"><img src="https://image.flaticon.com/icons/png/512/270/270798.png" height="40" width="40"></a>&nbsp&nbsp
   <a href="mailto:pratik102agrawal@gmail.com"><img src="https://image.flaticon.com/icons/png/128/888/888853.png" height="40" width="40"></a>&nbsp&nbsp
