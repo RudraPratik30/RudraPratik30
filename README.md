@@ -12,8 +12,8 @@
 </div>
 <!-- <hr> -->
 
-## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)!&nbsp;&nbsp;<img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
-<div>
+<!-- Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)!&nbsp;&nbsp;<img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30"> -->
+<!-- <div>
   <img align="right" src="https://thumbs.gfycat.com/CriminalSilverAmethystgemclam-max-1mb.gif" width="35%" height="150"/>
 - <img src="https://c.tenor.com/NCRHhqkXrJYAAAAj/programmers-go-internet.gif" width="20" height="20"> I am a Student & a Developer <br>
 - <img src="https://c.tenor.com/zZwhISRsAnQAAAAM/code.gif" width="20" height="20"> Currently learning Java & Web Development.<br>
@@ -21,9 +21,9 @@
 - <img src="https://c.tenor.com/GocCvG7hs78AAAAj/rocket-joypixels.gif" width="20" height="20"> I'm looking to collaborate and become more participatory in the community.<br>
 - <img src="https://c.tenor.com/D16b6zcA3CMAAAAj/books-study.gif" width="20" height="20"> I want to learn n enhance my skills in competitive programming.<br>
 - <img src="https://c.tenor.com/pBrzvwLzbwoAAAAj/hacking-hack.gif" width="20" height="20"> I am also interested in Ethical Hacking.
-</div>
+</div> -->
 <!-- hr -->
-<h2>Languages I currently work with</h2><br>
+<!-- <h2>Languages I currently work with</h2><br>
 <p align="center"><span>
 <img src="https://img.icons8.com/color/2x/c-programming.png" alt="C Programming" height="50" width="50">&nbsp&nbsp
 <img src="https://img.icons8.com/color/2x/html-5.png" alt="HTML 5" height="50" width="50">&nbsp&nbsp
@@ -32,11 +32,11 @@
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" alt="Java" height="50" width="50">&nbsp&nbsp
 <img src="https://img.icons8.com/color/2x/python.png" alt="Python" height="50" width="50">&nbsp&nbsp
 <img src="https://img.icons8.com/ios-filled/2x/markdown.png" alt="Markdown" height="50" width="50">&nbsp&nbsp
-</span></p>
+</span></p> -->
 
 <!-- hr -->
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all </h2><br>
+<!-- <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> I would love to connect with you all </h2><br>
 <p align="center"><span>
   <a href="https://www.linkedin.com/in/rudrapratik/"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>&nbsp&nbsp
   <a href="https://www.instagram.com/rudrapratik30/"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>&nbsp&nbsp
@@ -45,9 +45,9 @@
   <a href="https://www.hackerrank.com/pratik104agrawal"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="45" width="45"></a>&nbsp&nbsp
   <a href="https://www.freecodecamp.org/rudrapratik"><img src="https://img.icons8.com/windows/2x/free-code-camp.png" height="45" width="45"></a>&nbsp&nbsp
   <a href="https://tryhackme.com/p/RudraPratik"><img src="https://api.iconify.design/simple-icons/tryhackme.svg" height="45" width="45"></a>
-</span></p>
+</span></p> -->
 
-<hr>
+<!-- <hr>
 <div align="center">
 <span>
 
@@ -57,10 +57,58 @@
 
 ![Activity graph](https://activity-graph.herokuapp.com/graph?username=RudraPratik30&theme=rogue&hide_border=true&area=true)
 </div>
-<hr>
+<hr> -->
 
 <!-- <img src="imgs\thanks.gif" width="100%"><br> -->
-<center>
+<!-- <center>
   <p>© 2021 Pratik Agrawal</p>
 </center>
-<hr>
+<hr> -->
+
+
+```
+                            .- =                                    . @rudrapratik30 -------------------------------------------
+                        .-@@@@@@@#                                  .                                    
+                     .*%@@@@@@@@@@@%-                               . [ Roles ]                                    
+                     @@@@===:..   .@@+                              . - Developer Advocate                         
+                    @@@:-=--...    .%=                              . - Support Engineer               
+                    %@#::::..       -@                              . - Community Manager                                    
+                     @:.@@@@*==%%+-  %                              . - Technical Writer                                   
+                     = .%@%%%-.#%%=: -+                             . - Documentation                                   
+                     % :-===*: :::    .                             .                                    
+                     @. =+*%+*+::=%=. .                             . [ Past Deployments]                                   
+                     ==+#%@@@@%*-*@%+.                              . 
+                       @@%@@%=.: .:+-:                              . Role               Developer Advocate and Support Engineer
+                       .@@@%@@@@=..-+                               . Host                                               ToolJet
+                         @@@%*==-*%@=                               . Up Time                                 Aug 2024 - Present
+                         +@@@@@@@@*-.                               . 
+                         -%%@@@%*=...                               . Role                                               Founder      
+                     ::.=%%%%&+==-::==-::=-.-=--.                   . Host                                            theDevArmy
+                   ::-=====%%%%%*=-++==--:---:==+:-=:               . Up Time                                 Nov 2023 - Present       
+                -====++***##**#*+=+====---:=::=++:+*-=.             .      
+              :==+=+==++++*****++++=======:-:=:--+=+#+*-:           .     
+            :=+==+=====++==**++++++++=-===-=-----=*:++:=-:          . [ Network Logs ]       
+           -=+*+++===-==++==+*==++++*==+=+=====-=-*-#*-=-=:         .                             
+          *#=+#**+-==-===+===*+=++++*-=+++=+=++=+=#=#++-==-:        . Email.Personal                     rudrapratik30@gmail.com                           
+         -#%#+#*++=++==+=+===+*==*+**=++++=++=+==**=#*+==+--:       . Email.Work                              pratik@tooljet.com                            
+         =*#@#*%#+++*+++++=+=+**=***+-=+++=+==+=:**=+=*++-==-.      . LinkedIn                                  /in/rudrapratik/
+        =+***@@%%*****++++=*++**+****=++**+=+===:=**%@@*++=-=-      . X/Twitter                              x.com/rudrapratik30
+        +#*##%%#%%#**++++*+*++*#+***+=++*+*+++==-=+#@%##*++=--:     .                           
+       .+*###%%@%%##**###*+####*+**++++*+ =*++==-=+*@@%###*+--.     .                          
+       -**##%%%@@%###  #***####**#*+++**-- +==+===+#@@@%##+=:..     . [ Hobbies ]                           
+       =######%@@@###=.:#*##*####*+++++*++: +==-==++%#@%#++==-.     .                        
+       =*###%%%@@@#%+#+=*######****==+**+*#- ==-===*%% @%=-:....    . - Trekking                     
+       =##%%%%@@@%%:++==-    .****..          -====*%@-..      .    . - Swimming                       
+       -%%%###%@ @......   .  ***=  +==.        .            .::    . - Badminton        
+       .:.::-=#*:.===---     .*###**-                  .....:--:    .      
+       -......-#.:::-====:..  :###+==#+....::..... =::::---==.      .                
+       +=-----#*==+++++*+.  : +#%%*+##+..:......-*  -=+++:          .       
+        *##%%%###******++-. .+%%%%%%%%+::::::==*+.*##%+             .                      
+         .#%%%%#+%@%**#**+*+#%%%%%%%%#%######*#*#*#+##+             .                         
+                #%%%%@@%%%#%%%%%#%%%########*******+##=             .                   
+                :%@@@%%##%%%%%#############*++++=+++##-             .                   
+                :##%%%%%%%%%%%#############*+++=*+++#*.             .                   
+                =#@%%%%%%%%%###############++=-++==+#+.             .                      
+                =*%@@%%%%%%%%%############*++-=++==+*::             .                        
+                =#*#%%%%%#%%##############+*+-+++=+*+.:             .                              
+```
