@@ -2,15 +2,15 @@
 ## So, Finally you are here!! 🕵🏻‍♂️
 #### I have been waiting for you since long 👨🏻💻
 #### Get into the aircraft and let's go through my world. Don't forget to tighten your seat belt 😉-->
-<img src="imgs\start.gif" align="center" width="100%" height=300px>
+<!-- <img src="imgs\start.gif" align="center" width="100%" height=300px>
 
 <img src="https://alemdosgreys.files.wordpress.com/2016/12/ufo-flying-saucer-animated-gif-9.gif" align="center" width="100%" height=300px>
-<br>
+<br> -->
 <div align="right">
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RudraPratik30.RudraPratik30)
 </div>
-<hr>
+<!-- <hr> -->
 
 ## Hey!! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">  I am [Pratik Agrawal](https://github.com/RudraPratik30)!&nbsp;&nbsp;<img src="https://uploads.scratch.mit.edu/users/avatars/63785324.png" width="30" height="30">
 <div>
@@ -59,7 +59,7 @@
 </div>
 <hr>
 
-<img src="imgs\thanks.gif" width="100%"><br>
+<!-- <img src="imgs\thanks.gif" width="100%"><br> -->
 <center>
   <p>© 2021 Pratik Agrawal</p>
 </center>
